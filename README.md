@@ -3,7 +3,7 @@
 Machine Learning Powered Restaurant Insights and Predictions
 
 ## 🚀 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://swiggy-restaurant-analytics-app-92d47mxr4mfjz3ryld8c7q.streamlit.app/)
 
 ## 📊 Features
 - **ML Predictions**: High-Rated, Popular, and Premium restaurant classifications
